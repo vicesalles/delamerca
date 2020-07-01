@@ -1,0 +1,16 @@
+@import "../node_modules/bulma/bulma.sass";
+
+.footerHome{
+    padding-bottom: 1em;
+}
+
+.outLinkArtist{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+    &:hover{
+        color: yellow;
+    }
+}
