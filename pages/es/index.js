@@ -1,39 +1,24 @@
 import Link from 'next/link';
 import Icon from '@mdi/react'
 import { mdiTwitter,mdiInstagram,mdiMessage } from '@mdi/js'
-import TopMenu from '../components/TopMenu'
+import TopMenu from '../../components/TopMenu'
 
 export default function Home() {
   return (
     <div>
-      <section className="hero is-dark is-fullheight">      
+      <section className="hero is-dark is-fullheight">
+        <div className="hero-head">
+          <TopMenu/>
+        </div>
         <div className="hero-body">
           <div className="container has-text-centered">
             <h1 className="title is-1 delamercaTitle">
               CORNERS DE LA MERCA
             </h1>
             <h2 className="subtitle delamercaSubtitle">
-              A trapicheo game
-            </h2>   
-            <div className="level">
-              <div className="level-item">
-                <Link href="/es">
-                  <a className="langLink">
-                  Español
-                  </a>
-                </Link>
-                <Link href="/en">
-                <a className="langLink">
-                  English
-                  </a>
-                </Link>
-              </div>
-              
-                
-           
-            </div>        
+              Un juego de trapicheo
+            </h2>           
           </div>
-
         </div>
         <div className="hero-foot">
           <div className="container">

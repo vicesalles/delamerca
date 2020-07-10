@@ -14,7 +14,7 @@ function Decks(){
                 </div>
             </section>
             <section className="container section">               
-                <p className="para">De la merca is a decision making sequence. The player faces scenes with three possible outcomes. I see each scene as an illustrated card. Each card depicts a dayly situation 
+                <p className="para">De la merca is a decision making sequence game. The player faces scenes with three possible outcomes. I see each scene as an illustrated card. Each card depicts a dayly situation 
                     with it's embeded consequences. The art is decisive here. The text presence is crucial but it will be minimalist. Each card will have less characters than a tweet. So most of the part
                     of the storytelling will be in charge of the graphic artist. The artist will set the field where the user imagination will create the actual story.</p>                    
                 <p className="para">My aim is to create thematic decks with artists of all around the world. All the decks will share events but with cultural tones. We can see the same street traffiking drama all around the world.

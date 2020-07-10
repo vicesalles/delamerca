@@ -23,6 +23,7 @@
 
 .delamercaSubtitle{
     font-family: 'Homemade Apple', cursive;
+    word-spacing: 0.5em;
     padding-top: 1em;
 }
 
@@ -34,4 +35,14 @@
 
 .para {
     margin-top: 1em;
+}
+
+.langLink{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 1em;
+    &:hover{
+        color: palegoldenrod;
+    }
 }
