@@ -1,5 +1,5 @@
 import Icon from '@mdi/react'
-import { mdiTwitter } from '@mdi/js'
+import { mdiTwitter, mdiInstagram, mdiMessage } from '@mdi/js'
 import TopMenu from './TopMenu';
 import Link from 'next/link';
 
@@ -16,6 +16,18 @@ function Pagina({ children }) {
                         <div className="level-item footerHome">
                             <a href="https://twitter.com/delamerca" target="_blank">
                                 <Icon path={mdiTwitter} title="@delamerca" size={1} color="#000" />
+                            </a>
+                        </div>
+
+                        <div className="level-item footerHome">
+                            <a href="https://instagram.com/delamercagames" target="_blank">
+                                <Icon path={mdiInstagram} title="@delamercagames" size={1} color="#000" />
+                            </a>
+                        </div>
+
+                        <div className="level-item footerHome">
+                            <a href="https://keybase.io/vicesalles" target="_blank">
+                                <Icon path={mdiMessage} title="keybase" size={1} color="#000" />
                             </a>
                         </div>
                 
