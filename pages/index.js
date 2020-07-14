@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Icon from '@mdi/react'
-import { mdiTwitter,mdiInstagram,mdiMessage } from '@mdi/js'
+import { mdiTwitter,mdiInstagram, mdiDiscord, mdiCashMultiple } from '@mdi/js'
 import TopMenu from '../components/TopMenu'
 
 export default function Home() {
@@ -9,9 +9,11 @@ export default function Home() {
       <section className="hero is-dark is-fullheight">      
         <div className="hero-body">
           <div className="container has-text-centered">
-            <h1 className="title is-1 delamercaTitle">
-              CORNERS DE LA MERCA
+            
+            <h1 className="title is-1 delamercaTitle" style={{color:"#e7401d"}}>
+              de la merca
             </h1>
+            <img src="/Bigoti.svg" width="250" style={{marginBottom:"1em"}}/>
             <h2 className="subtitle delamercaSubtitle">
               A trapicheo game
             </h2>   
@@ -50,8 +52,14 @@ export default function Home() {
                 </div>
 
                 <div className="level-item footerHome">
+                            <a href=" https://discord.gg/gDWkqm" target="_blank">
+                                <Icon path={mdiDiscord} title="discord" size={1} color="#ffffff" />
+                            </a>
+                </div>
+
+                <div className="level-item footerHome">
                             <a href="https://keybase.io/vicesalles" target="_blank">
-                                <Icon path={mdiMessage} title="keybase" size={1} color="#ffffff" />
+                                <Icon path={mdiCashMultiple} title="business" size={1} color="#ffffff" />
                             </a>
                 </div>
           

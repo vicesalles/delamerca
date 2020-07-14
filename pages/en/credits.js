@@ -18,8 +18,7 @@ function Credits(){
             <section className="container section">
                 <h4 className="title is-4">
                     Twitter pictures
-                </h4>
-                <p>Profile picture <a href="https://unsplash.com/@theshuttervision" target="_blank" className="outLinkArtist">Jonathan Cooper</a></p>
+                </h4>               
                 <p>Header picture <a href="https://unsplash.com/@jessicalfadel" target="_blank" className="outLinkArtist">Jessica Fadel</a></p>
             </section>
             </Pagina>)

@@ -4,9 +4,9 @@ function TopMenuEs(){
 
     return(<nav className="navbar is-dark" role="navigation" aria-label="main navigation">
                 <div className="navbar-brand">
-                <Link href="/es" passHref>
+                <Link href="/" passHref>
                     <a className="navbar-item s-title is-1 tipodelamerca">
-                        <b>DLM</b>
+                        <b style={{color:"#e7401d"}}>DLM</b>
                     </a>
                 </Link>    
                 <Link href="/es/barajas">

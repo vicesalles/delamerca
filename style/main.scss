@@ -1,3 +1,6 @@
+
+$danger: #e7401d;
+
 @import "../node_modules/bulma/bulma.sass";
 @import "fonts";
 
@@ -17,7 +20,7 @@
 }
 
 .delamercaTitle{
-    font-family: 'Alfa Slab One', cursive;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 
@@ -28,7 +31,8 @@
 }
 
 .tipodelamerca{
-    font-family: 'Alfa Slab One', cursive;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    color: $danger; 
 
 }
 
