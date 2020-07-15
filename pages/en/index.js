@@ -14,7 +14,7 @@ export default function Home() {
           <div className="container has-text-centered">
             <img src="/delaMerca.svg" width="250"/>
             <h2 className="subtitle delamercaSubtitle">
-              how long do you thing you gonna last?
+              how long do you gonna last?
             </h2>           
           </div>
         </div>
