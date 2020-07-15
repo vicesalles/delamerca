@@ -14,7 +14,7 @@ export default function Home() {
           <div className="container has-text-centered">
             <img src="/delaMerca.svg" width="250"/>
             <h2 className="subtitle delamercaSubtitle">
-              Un juego de trapicheo
+              cuanto crees que vas durar?
             </h2>           
           </div>
         </div>
