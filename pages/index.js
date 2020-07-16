@@ -52,7 +52,7 @@ export default function Home() {
                 </div>
 
                 <div className="level-item footerHome">
-                            <a href=" https://discord.gg/gDWkqm" target="_blank">
+                            <a href="https://discord.gg/T2T97XJ" target="_blank">
                                 <Icon path={mdiDiscord} title="discord" size={1} color="#ffffff" />
                             </a>
                 </div>
