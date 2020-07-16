@@ -11,7 +11,7 @@ function TopMenuEn(){
                 </Link>    
                 <Link href="/en/decks">
                     <a className="navbar-item">
-                        Decks
+                        Art
                     </a>
                 </Link> 
                 <Link href="/en/credits">

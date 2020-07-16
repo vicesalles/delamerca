@@ -11,7 +11,7 @@ function TopMenuEs(){
                 </Link>    
                 <Link href="/es/barajas">
                     <a className="navbar-item">
-                        Barajas
+                        Arte
                     </a>
                 </Link> 
                 <Link href="/es/credits">

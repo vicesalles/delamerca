@@ -13,9 +13,9 @@ export default function Home() {
         <div className="hero-body">
           <div className="container has-text-centered">
             <img src="/delaMerca.svg" width="250"/>
-            <h2 className="subtitle delamercaSubtitle">
+            <h1 className="title delamercaSubtitle">
               for how long do you gonna last?
-            </h2>           
+            </h1>           
           </div>
         </div>
         <div className="hero-foot">

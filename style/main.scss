@@ -25,11 +25,22 @@ $danger: #e7401d;
 
 
 .delamercaSubtitle{
+    
     font-family: 'Homemade Apple', cursive;
     word-spacing: 0.5em;
     padding-top: 1em;
+    line-height: 2em;
+    
+        padding-top: 0.5em !important;
+   
 }
 
+.homeSubtitle{        
+    font-family: 'Homemade Apple', cursive;
+    word-spacing: 0.5em;
+    line-height: 2em;
+    padding-top: 0 !important;
+}
 .tipodelamerca{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
     color: $danger; 
