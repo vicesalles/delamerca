@@ -9,28 +9,36 @@ function DelaMerca({ Component, pageProps, router }) {
     return <div >
                 <Head>
                     <title>De la merca</title>  
-                    <meta name="description" content="Sàvies és una plataforma divulgativa d'educació en el lleure."/>    
+                    <meta name="description" content="Indie game about street decision making."/>    
                     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>                                 
                     <meta name="mobile-wep-app-capable" content="yes"/>
                     <meta name="apple-mobile-wep-app-capable" content="yes"/>
                   
-                    <meta name="robots" content="index,follow"/>
-                    <meta name="AdsBot-Google" content="noindex" />
+                    <meta name="robots" content="index,follow"/>  
+
+                    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+                    <link rel="icon" href="/favicon.ico?v=2" />
+                    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+                    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+                    <link rel="manifest" href="/site.webmanifest"/>
+                    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"/>
+                    <meta name="msapplication-TileColor" content="#da532c"/>
+                    <meta name="theme-color" content="#3d3d3d"/>
                     
                     {/* Tags Facebook*/}
                     <meta property="og:url" content="https://delamerca.com/" key="url-facebook" />
                     <meta property="og:type" content="web" key="type-facebook" />
                     <meta property="og:title" content="delamerca.com" key="title-facebook"/>
-                    <meta property="og:description" content="Sàvies és una plataforma divulgativa d'educació en el lleure." key="description-facebook" />
-                    <meta property="og:image" content="https://savies.cat/img/saviesPoster.jpg"  key="image-facebook"/>
+                    <meta property="og:description" content="Indie game about street decision making." key="description-facebook" />
+                    <meta property="og:image" content="https://delamerca.com/socialmedia/delamerca.png"  key="image-facebook"/>
                     
                     {/* Tags Twitter*/}
                     <meta name="twitter:card" content="summary" />
                     <meta name="twitter:title" content="De la merca"/>
-                    <meta name="twitter:description" content="Sàvies és una plataforma divulgativa d'educació en el lleure."/>
+                    <meta name="twitter:description" content="Indie game about street decision making."/>
                     <meta name="twitter:site" content="@delamerca" />     
-                    <meta name="twitter:image" content="https://savies.cat/img/saviesPoster.jpg" />  
-                    <meta name="twitter:image:alt" content="El logotip de Sàvies és una gran essa majúscula situada al damunt de tres barres que s'uneixen formant un triangle cap per avall. Cada barra és d'un color diferent: Blau, vermell i verd." />  
+                    <meta name="twitter:image" content="https://delamerca.com/socialmedia/delamerca.png" />  
+                    <meta name="twitter:image:alt" content="De la merca logo." />  
                 </Head>         
                 <Component {...pageProps} key={router.route} />
             </div>
