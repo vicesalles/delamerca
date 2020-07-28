@@ -16,7 +16,17 @@ export default function Home() {
             <img src="/delaMerca.svg" width="250"/>
             <h1 className="title delamercaSubtitle">
               for how long do you gonna last?
-            </h1>           
+            </h1>   
+            <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css"/>    
+            <div id="mc_embed_signup">
+            <form action="https://delamerca.us17.list-manage.com/subscribe/post?u=87088ae9ce581bbe27ff07968&amp;id=f91bfa2e4b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <div id="mc_embed_signup_scroll">
+              <label for="mce-EMAIL">Subscribe to the dev diary</label>
+              <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email" required/>   
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"/></div>
+                </div>
+            </form>
+            </div>        
           </div>
         </div>
         <div className="hero-foot">
