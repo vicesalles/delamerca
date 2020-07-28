@@ -38,7 +38,7 @@ function Barajas() {
         </section>
         <section className="container section">
             <h1 className="title">Estilo</h1>
-            <p className="para">Busco arte de linia simple y mucha fuerz. No busco arte que luzca por su realismo si no escenas impactantes e icónicas.</p>
+            <p className="para">Busco arte de linia simple y mucha fuerza. No busco arte que luzca por su realismo si no escenas impactantes e icónicas.</p>
 
             <p className="para">Si tomamos dos extremos que amo, busco algo en medio de <a href=" https://www.rockstargames.com/V/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2FV%2F&options=&locale=en_us" target="_blank">GTA</a> y <a href="https://reignsgame.com/reigns/" target="_blank">REIGNS</a></p>
 
@@ -59,7 +59,7 @@ function Barajas() {
                 </div>
             </div>
 
-            <p className="para">Es posible? Estoy muy loco? Qué arte representará mejor tu ciudad?</p>
+            <p className="para">Es posible? Estoy seguro que sí! Crees que tu arte puede representar a tu ciudad? Contactame</p>
         </section>
     </Pagina>)
 
