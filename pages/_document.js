@@ -25,14 +25,6 @@ export default class MyDocument extends Document {
             }}
           />
 
-<script id="mcjs"
-            dangerouslySetInnerHTML={{
-              __html: `
-              !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/87088ae9ce581bbe27ff07968/b1ddf15d46209c87358a4d50c.js");
-          `,
-            }}
-          />
-
         </Head>
         <body>
           <Main />
