@@ -16,7 +16,7 @@ export default function Home() {
             </h1>
             <img src="/Bigoti.svg" width="250" style={{marginBottom:"1em"}}/>
             <h2 className="subtitle homeSubtitle">
-              Gentlemant et Provocateur
+              Gentleman et provocateur
             </h2>   
             <div className="level">
               <div className="level-item">
