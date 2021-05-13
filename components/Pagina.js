@@ -23,13 +23,7 @@ function Pagina({ children }) {
                         <a href="https://instagram.com/delamercagames" target="_blank">
                             <Icon path={mdiInstagram} title="@delamercagames" size={1} color="#000" />
                         </a>
-                    </div>
-
-                    <div className="level-item footerHome">
-                        <a href=" https://discord.gg/gDWkqm" target="_blank">
-                            <Icon path={mdiDiscord} title="discord" size={1} color="#000" />
-                        </a>
-                    </div>
+                    </div>                
 
                     <div className="level-item footerHome">
                         <a href="https://keybase.io/vicesalles" target="_blank">

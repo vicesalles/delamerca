@@ -11,8 +11,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <meta property="og:description" content="Juego indie sobre supervivencia callejera." key="description-facebook" />
-        <meta name="twitter:description" content="Juego indie sobre supervivencia callejera." />
+        <meta property="og:description" content="Joc indie de supervivència al carrer." key="description-facebook" />
+        <meta name="twitter:description" content="Joc indie de supervivència al carrer." />
       </Head>
       <section className="hero is-dark is-fullheight">
         <div className="hero-head">
@@ -22,12 +22,12 @@ export default function Home() {
           <div className="container has-text-centered">
             <img src="/delaMerca.svg" width="250" />
             <h2 className="subtitle homeSubtitle">
-              "Esquinas" es mi primer juego
+              "Cantonades" és el meu primer joc
             </h2>  
             <h1 className="title delamercaSubtitle">
-              cuanto crees que durarías?
+              Quan et penses que duraries?
             </h1>
-            <MailChimpForm label="Suscríbete al diario de desarrollo"/>          
+            <MailChimpForm label="Subscriu-te al diari de desenvolupament"/>          
           </div>
           </div>      
   

@@ -1,6 +1,6 @@
 import Link from 'next/link';
 
-function TopMenuEn(){
+function TopMenuCa(){
 
     return(<nav className="navbar is-dark" role="navigation" aria-label="main navigation">
                 <div className="navbar-brand">
@@ -9,9 +9,9 @@ function TopMenuEn(){
                         <b style={{color:"#e7401d"}}>DLM</b>
                     </a>
                 </Link>    
-                <Link href="/en/corners">
+                <Link href="/ca/cantonades">
                     <a className="navbar-item">
-                        Corners
+                        Cantonades
                     </a>
                 </Link>               
                 </div>
@@ -19,7 +19,7 @@ function TopMenuEn(){
 
 }
 
-export default TopMenuEn;
+export default TopMenuCa;
 
 /*
  <a role="button" className="navbar-burger" aria-label="menu" aria-expanded="false">

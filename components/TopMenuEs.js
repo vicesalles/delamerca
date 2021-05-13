@@ -9,16 +9,12 @@ function TopMenuEs(){
                         <b style={{color:"#e7401d"}}>DLM</b>
                     </a>
                 </Link>    
-                <Link href="/es/barajas">
+                <Link href="/es/esquinas">
                     <a className="navbar-item">
-                        Arte
+                        Esquinas
                     </a>
                 </Link> 
-                <Link href="/es/credits">
-                    <a className="navbar-item">
-                        Créditos
-                    </a>
-                </Link>
+               
                 </div>
             </nav>)
 
