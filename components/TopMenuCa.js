@@ -14,9 +14,14 @@ function TopMenuCa(){
                         Cantonades
                     </a>
                 </Link>    
+                <Link href="/ca/opinions">
+                    <a className="navbar-item">
+                        Opinions
+                    </a>
+                </Link>   
                 <Link href="/ca/jo">
                     <a className="navbar-item">
-                        Sobre mi
+                        Autor
                     </a>
                 </Link>              
                 </div>

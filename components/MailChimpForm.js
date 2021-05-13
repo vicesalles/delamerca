@@ -41,6 +41,7 @@ function MailChimpForm(props){
             animate="visible"
             exit="exit"
             variants={mailFormANimation}
+            className="containerMailchimp"
             >
             <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css"/>    
             <div id="mc_embed_signup">

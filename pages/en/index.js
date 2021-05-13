@@ -17,14 +17,14 @@ export default function Home() {
         </div>
         <div className="hero-body">
           <div className="container has-text-centered">
-            <img src="/delaMerca.svg" width="250"/>
+            <img className="logo" src="/delaMerca.svg" width="250"/>
             <h2 className="subtitle homeSubtitle">
-              "Corners" is my first game
+              "Corners" is my first game. It's a simple decision making game where you'll never win.
             </h2>  
             <h1 className="title delamercaSubtitle">
               for how long you'd gonna last?
             </h1>   
-            <MailChimpForm label="Stay tunned, join our dev diary"/>     
+            <MailChimpForm label="Stay tunned with my dev diary and join the beta"/>     
           </div>
         </div>
         <HeroFooter/>

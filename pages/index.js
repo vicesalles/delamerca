@@ -10,14 +10,14 @@ export default function Home() {
       <section className="hero is-dark is-fullheight">      
         <div className="hero-body">
           <div className="container has-text-centered">
-            
+          <h2 className="subtitle homeSubtitle">
+              atelier
+            </h2>   
             <h1 className="title is-1 delamercaTitle" style={{color:"#e7401d"}}>
               de la merca
             </h1>
             <img src="/Bigoti.svg" width="250" style={{marginBottom:"1em"}}/>
-            <h2 className="subtitle homeSubtitle">
-              Gentleman et provocateur
-            </h2>   
+           
             <div className="level">
               <div className="level-item">
                 <Link href="/es">

@@ -14,6 +14,11 @@ function TopMenuEs(){
                         Esquinas
                     </a>
                 </Link> 
+                <Link href="/es/opiniones">
+                    <a className="navbar-item">
+                        Opiniones
+                    </a>
+                </Link> 
                
                 </div>
             </nav>)

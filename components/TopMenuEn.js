@@ -13,7 +13,12 @@ function TopMenuEn(){
                     <a className="navbar-item">
                         Corners
                     </a>
-                </Link>               
+                </Link>      
+                <Link href="/en/reviews">
+                    <a className="navbar-item">
+                        Reviews
+                    </a>
+                </Link>           
                 </div>
             </nav>)
 
