@@ -22,10 +22,10 @@ export default function Home() {
           <div className="container has-text-centered">
             <img className="logo" src="/delaMerca.svg" width="250" />
             <h2 className="subtitle homeSubtitle">
-              "Cantonades" és el meu primer joc. És un joc senzill de presa de decissions on mai no pots guanyar.
+              <Link href="/ca/cantonades"><span  className="cornersLink">"Cantonades"</span></Link>  és el meu primer joc. És un joc senzill de presa de decissions on mai no pots guanyar.
             </h2>  
             <h1 className="title delamercaSubtitle">
-              Quan et penses que duraries?
+              Quan dies creus que duraràs?
             </h1>
             <MailChimpForm label="Subscriu-te al diari de desenvolupament i participa a la beta"/>          
           </div>

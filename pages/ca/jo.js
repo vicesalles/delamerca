@@ -29,6 +29,10 @@ function Jo() {
             He decidit canviar-me de mitjà. He guardat la vella història en un calaix i he passat pàgina. <Link href="/ca/cantonades">Estic fent un joc.</Link>  
             </p>
 
+            <p className="para">
+                Porto força anys gestionant projectes de producció de continguts. Una de les més profundes creences que tinc, és que les coses complicades no funcionen. La combinació de coses simples, en canvi, sí.
+            </p>
+
         </section>
     </Pagina>)
 

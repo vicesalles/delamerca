@@ -86,3 +86,13 @@ $danger: #e7401d;
 .logo{
     margin-bottom: 1em;
 }
+
+.cornersLink{
+    text-decoration: none;    
+    font-weight: bold;    
+    color: white;
+    cursor: pointer;
+    &:hover{
+        color: $danger;
+    }
+}

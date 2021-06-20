@@ -18,7 +18,12 @@ function Esquinas() {
             Son muchas las voces que afirman que tras la guerra contra la droga, se esconde la guerra contra los pobres. ¿Cuanto te crees que durarías como peón?
             </p>          
 
+            <p className="para">En este juego, empezarás la partida con 20 pavos y 3 pollos de merca. Tendrás que ser listo y tener suerte para sobrevivir a las calles salvajes.</p>
+
             <p className="para"> El juego está actualmente en desarrollo y saldrá al mercado durante el último cuarto de 2021.</p>
+
+            <p className="para"> Da soporte al proyecto y píllate <a href="https://delamerca.net" target="_blank"> una camiseta DLM</a></p>
+
 
             <figure class="image is-vcentered">
                     <img  style={{ width:"400px", height:"400px"}} src="/img/esquinasdelamerca.jpg"/>

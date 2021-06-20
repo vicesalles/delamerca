@@ -15,7 +15,7 @@ function Cantonades() {
         </section>
         <section className="container section content">
                
-            <p className="para"> Cantonades de la merca és un joc casual però intens de decissions de supervivència al carrer. En els darrers anys hem vist com la industria de l'entreteniment ha mitificat el tràfic de drogues. La indústria de la droga, però,
+            <p className="para"> Cantonades de la merca (DLM) és un joc casual però intens de decissions de supervivència al carrer. En els darrers anys hem vist com la industria de l'entreteniment ha mitificat el tràfic de drogues. La indústria de la droga, però,
             en té molt poc de romàntic. Quanta estona creus que duraries essent-ne un peó?
             </p>
 
@@ -23,6 +23,8 @@ function Cantonades() {
                 intento fer evidents algunes de les disfuncions del sistema político-econòmic que donem per vàlid.</p>
             
             <p className="para"> El joc està actualment en fase de desenvolupament i sortirà al mercat durant el darrer quart de 2021.</p>
+
+            <p className="para"> Dóna suport al projecte i compra't <a href="https://delamerca.net" target="_blank"> una camiseta DLM</a></p>
 
             <figure class="image is-vcentered">
                     <img  style={{ width:"400px", height:"400px"}} src="/img/esquinasdelamerca.jpg"/>

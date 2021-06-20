@@ -19,7 +19,7 @@ export default function Home() {
           <div className="container has-text-centered">
             <img className="logo" src="/delaMerca.svg" width="250"/>
             <h2 className="subtitle homeSubtitle">
-              "Corners" is my first game. It's a simple decision making game where you'll never win.
+            <Link href="/en/corners"><span  className="cornersLink">"Corners"</span></Link> is my first game. It's a simple decision making game where you'll never win.
             </h2>  
             <h1 className="title delamercaSubtitle">
               for how long you'd gonna last?

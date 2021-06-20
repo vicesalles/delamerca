@@ -22,7 +22,7 @@ export default function Home() {
           <div className="container has-text-centered">
             <img className="logo" src="/delaMerca.svg" width="250" />
             <h2 className="subtitle homeSubtitle">
-              "Esquinas" es mi primer juego. Es un juego senzillo de toma de decisiones donde nunca puedes ganar.
+            <Link href="/es/esquinas"><span  className="cornersLink">"Esquinas"</span></Link> es mi primer juego. Es un juego senzillo de toma de decisiones donde nunca puedes ganar.
             </h2>  
             <h1 className="title delamercaSubtitle">
               cuanto crees que durarías?

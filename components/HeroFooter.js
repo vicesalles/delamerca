@@ -2,7 +2,7 @@ import Link from 'next/link';
 import {useEffect,useState} from 'react';
 import {useRouter} from 'next/router';
 import Icon from '@mdi/react'
-import { mdiTwitter,mdiInstagram, mdiDiscord, mdiCashMultiple } from '@mdi/js'
+import { mdiTwitter,mdiInstagram, mdiCashMultiple, mdiTshirtV } from '@mdi/js'
 
 function HeroFooter(){
 
@@ -19,7 +19,14 @@ function HeroFooter(){
               <a href="https://instagram.com/delamercagames" target="_blank">
                 <Icon path={mdiInstagram} title="@delamercagames" size={1} color="#ffffff" />
               </a>
-            </div>             
+            </div>          
+
+            <div className="level-item footerHome">
+              <a href="https://delamerca.net" target="_blank">
+                <Icon path={mdiTshirtV} title="shop" size={1} color="#ffffff" />
+              </a>
+            </div>
+   
 
             <div className="level-item footerHome">
               <a href="https://keybase.io/vicesalles" target="_blank">
