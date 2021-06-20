@@ -19,6 +19,11 @@ function TopMenuEs(){
                         Opiniones
                     </a>
                 </Link> 
+                <Link href="/real-crime">
+                    <a className="navbar-item">
+                        Crimen real
+                    </a>
+                </Link> 
                
                 </div>
             </nav>)

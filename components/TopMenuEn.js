@@ -18,7 +18,12 @@ function TopMenuEn(){
                     <a className="navbar-item">
                         Reviews
                     </a>
-                </Link>           
+                </Link>         
+                <Link href="/real-crime">
+                    <a className="navbar-item">
+                       Real Crime
+                    </a>
+                </Link>   
                 </div>
             </nav>)
 

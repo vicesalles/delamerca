@@ -23,7 +23,12 @@ function TopMenuCa(){
                     <a className="navbar-item">
                         Autor
                     </a>
-                </Link>              
+                </Link>         
+                <Link href="/real-crime">
+                    <a className="navbar-item">
+                        Crims Reals
+                    </a>
+                </Link>      
                 </div>
             </nav>)
 
