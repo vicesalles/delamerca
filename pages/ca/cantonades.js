@@ -30,6 +30,9 @@ function Cantonades() {
                     <img  style={{ width:"400px", height:"400px"}} src="/img/esquinasdelamerca.jpg"/>
             </figure>
 
+            <p>20/07/21: Ja estem en fase beta.</p>
+            <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="200" alt='Disponible a Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ca_badge_web_generic.png'/></a>
+             
         </section>
     </Pagina>)
 

@@ -27,7 +27,11 @@ export default function Home() {
             <h1 className="title delamercaSubtitle">
               cuanto crees que durarías?
             </h1>
-            <MailChimpForm label="Suscríbete al diario de desarrollo y participa en la beta"/>          
+            <div className="level">
+              <div className="level-item">
+              <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=delamerca.com-es-home'><img width="200" alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png'/></a>    
+               </div>
+            </div>                  
           </div>
           </div>      
   

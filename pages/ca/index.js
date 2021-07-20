@@ -25,9 +25,13 @@ export default function Home() {
               <Link href="/ca/cantonades"><span  className="cornersLink">"Cantonades"</span></Link>  és el meu primer joc. És un joc senzill de presa de decissions on mai no pots guanyar.
             </h2>  
             <h1 className="title delamercaSubtitle">
-              Quan dies creus que duraràs?
+              Quants dies creus que duraràs?
             </h1>
-            <MailChimpForm label="Subscriu-te al diari de desenvolupament i participa a la beta"/>          
+            <div className="level">
+              <div className="level-item">
+              <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=delamerca.com-ca-home'><img width="200" alt='Disponible a Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ca_badge_web_generic.png'/></a>
+              </div>
+            </div>          
           </div>
           </div>      
   

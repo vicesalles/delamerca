@@ -27,6 +27,14 @@ export default function Opinions() {
             </p>
             <div className="container opinio">
                 <h1 className="">
+                "El fill bastard del GTA i el Reigns"
+                </h1>
+                <h2 className=" ">
+                - un senyor savi
+                </h2>   
+            </div>
+            <div className="container opinio">
+                <h1 className="">
                 "Si algun subnormal et diu que li agrada, és que és més subnormal que tu"
                 </h1>
                 <h2 className=" ">
@@ -49,7 +57,8 @@ export default function Opinions() {
                 - la meu mare
                 </h2>    
             </div>
-            <MailChimpForm label="Subscriute al diari de desenvolupament i participa a la beta"/> 
+            <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="200" alt='Disponible a Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ca_badge_web_generic.png'/></a>
+             
           </div>      
         </div>      
   

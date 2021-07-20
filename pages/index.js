@@ -36,10 +36,13 @@ export default function Home() {
                   </a>
                 </Link>
               </div>
-              
-                
-           
-            </div>        
+              </div>  
+              <div className="level">
+              <div className="level-item">
+              <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=delamerca.com-home'><img width="200" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+              </div>        
+          </div>
+                  
           </div>
 
         </div>

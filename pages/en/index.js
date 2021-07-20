@@ -11,6 +11,10 @@ export default function Home() {
 
   return (
     <div>
+          <Head>
+        <meta property="og:description" content="Street survival game." key="description-facebook" />
+        <meta name="twitter:description" content="Street survival game." />
+      </Head>
       <section className="hero is-dark is-fullheight">
         <div className="hero-head">
           <TopMenu/>
@@ -24,7 +28,8 @@ export default function Home() {
             <h1 className="title delamercaSubtitle">
               for how long you'd gonna last?
             </h1>   
-            <MailChimpForm label="Stay tunned with my dev diary and join the beta"/>     
+            <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=delamerca.com-en-home'><img width="200" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+             
           </div>
         </div>
         <HeroFooter/>

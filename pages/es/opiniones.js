@@ -27,6 +27,14 @@ export default function Opinions() {
             </p>
             <div className="container opinio">
                 <h1 className="">
+                "El hijo bastardo de GTA y Reigns"
+                </h1>
+                <h2 className=" ">
+                - señor savio
+                </h2>   
+            </div>
+            <div className="container opinio">
+                <h1 className="">
                 "Si algún subnormal te dice que le gusta, es que es más subnormal que tu"
                 </h1>
                 <h2 className=" ">
@@ -49,7 +57,8 @@ export default function Opinions() {
                 - mi mamá
                 </h2>    
             </div>
-            <MailChimpForm label="Suscríbete al diario de desarrollo y participa en la beta"/>  
+            <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=delamerca.com-es-opiniones'><img width="200" alt='Disponible en Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png'/></a>    
+            
           </div>      
         </div>      
   
