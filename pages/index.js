@@ -9,10 +9,12 @@ export default function Home() {
     <div>
       <section className="hero is-dark is-fullheight">      
         <div className="hero-body">
-          <div className="container has-text-centered">
-          <h2 className="subtitle homeSubtitle">
-              atelier
-            </h2>   
+          <div className="container has-text-centered">     
+          <div className="level">
+            <div className="level-item">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/a2p-mUxQhEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>     
             <h1 className="title is-1 delamercaTitle" style={{color:"#e7401d"}}>
               de la merca
             </h1>
@@ -41,7 +43,7 @@ export default function Home() {
               <div className="level-item">
               <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=delamerca.com-home'><img width="200" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
               </div>        
-          </div>
+          </div>    
                   
           </div>
 
