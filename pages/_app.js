@@ -9,7 +9,7 @@ function DelaMerca({ Component, pageProps, router }) {
     return <div >
                 <Head>
                     <title>De la merca</title>  
-                    <meta name="description" content="Indie game about street decision making."/>    
+                    <meta name="description" content="Free android card game about drugs and street survival."/>    
                     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>                                 
                     <meta name="mobile-wep-app-capable" content="yes"/>
                     <meta name="apple-mobile-wep-app-capable" content="yes"/>
