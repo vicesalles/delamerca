@@ -11,14 +11,19 @@ function TopMenuEn(){
                 </Link>    
                 <Link href="/en/corners">
                     <a className="navbar-item">
-                        Corners
+                        Game
                     </a>
                 </Link>      
                 <Link href="/en/reviews">
                     <a className="navbar-item">
                         Reviews
                     </a>
-                </Link>         
+                </Link>     
+                <Link href="/movies">
+                    <a className="navbar-item">
+                        Movies
+                    </a>
+                </Link>     
                 <Link href="/real-crime">
                     <a className="navbar-item">
                        Real Crime

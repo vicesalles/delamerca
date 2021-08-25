@@ -11,7 +11,7 @@ function TopMenuEs(){
                 </Link>    
                 <Link href="/es/esquinas">
                     <a className="navbar-item">
-                        Esquinas
+                        Juego
                     </a>
                 </Link> 
                 <Link href="/es/opiniones">
@@ -19,11 +19,17 @@ function TopMenuEs(){
                         Opiniones
                     </a>
                 </Link> 
+                <Link href="/movies">
+                    <a className="navbar-item">
+                        Pelis
+                    </a>
+                </Link> 
                 <Link href="/real-crime">
                     <a className="navbar-item">
                         Crimen real
                     </a>
                 </Link> 
+               
                
                 </div>
             </nav>)

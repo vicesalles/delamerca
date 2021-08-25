@@ -11,7 +11,7 @@ function TopMenuCa(){
                 </Link>    
                 <Link href="/ca/cantonades">
                     <a className="navbar-item">
-                        Cantonades
+                        Joc
                     </a>
                 </Link>    
                 <Link href="/ca/opinions">
@@ -19,16 +19,21 @@ function TopMenuCa(){
                         Opinions
                     </a>
                 </Link>   
-                <Link href="/ca/jo">
+                <Link href="/movies">
                     <a className="navbar-item">
-                        Autor
+                        Pelis
                     </a>
-                </Link>         
+                </Link>                       
                 <Link href="/real-crime">
                     <a className="navbar-item">
                         Crims Reals
                     </a>
-                </Link>      
+                </Link>  
+                <Link href="/ca/jo">
+                    <a className="navbar-item">
+                        Autor
+                    </a>
+                </Link>     
                 </div>
             </nav>)
 
