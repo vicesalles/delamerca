@@ -33,4 +33,4 @@ function BestStories() {
 
 }
 
-export default Corners;
+export default BestStories;
