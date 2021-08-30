@@ -14,7 +14,7 @@ function MejoresHistorias() {
             </div>
         </section>
         <section className="container section content">
-            <p className="para"> Netflix's Narcos is probably the most relevant movie/tv series about drug trafficking but it's not the first neither the best.</p>
+            <p className="para"> Narcos de Netflix es, seguramente, la peli/serie más popular.</p>
 
             <p className="para">In our opinion, the best visual story ever written about the drugs world is The Wire. Set in the late 90's/early 2000's Baltimore, each of its characters is deppicted in its survival struggle. No bad guys, no good guys. 
             Just a broken society where the evil find his spot on people's misery. Each of its characters is a social icon. It's not a regular cops tv show as I was specting when I first saw it about 20 years ago. The Wire it's a master piece.</p>
@@ -33,4 +33,4 @@ function MejoresHistorias() {
 
 }
 
-export default Corners;
+export default MejoresHistorias;
