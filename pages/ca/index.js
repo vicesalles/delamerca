@@ -11,8 +11,12 @@ export default function Home() {
   return (
     <div>
       <Head>
+        <title>De la Merca - Joc android de supervivència al carrer.</title>  
+        <meta name="description" content="Joc android de supervivència al carrer en català."/>    
+        <meta http-equiv='content-language' content='ca-es'></meta>
         <meta property="og:description" content="Joc indie de supervivència al carrer." key="description-facebook" />
         <meta name="twitter:description" content="Joc indie de supervivència al carrer." />
+        
       </Head>
       <section className="hero is-dark is-fullheight">
         <div className="hero-head">

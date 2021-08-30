@@ -10,6 +10,7 @@ export default function Home() {
             <Head>
                 <meta property="og:description" content="De la Merca Real Crime." key="description-facebook" />
                 <meta name="twitter:description" content="De la Merca Real Crime." />
+                <meta http-equiv='content-language' content='en-gb'></meta>
             </Head>
             <section className="hero is-dark is-fullheight">
                 <div className="hero-body">

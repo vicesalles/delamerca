@@ -11,8 +11,11 @@ export default function Opinions() {
   return (
     <div>
       <Head>
-        <meta property="og:description" content="Joc indie de supervivència al carrer." key="description-facebook" />
-        <meta name="twitter:description" content="Joc indie de supervivència al carrer." />
+        <title>De la Merca - Opinions joc de supervivència al carrer.</title>  
+        <meta name="description" content="Opinions de la merca, joc android de supervivència al carrer en català."/>    
+        <meta http-equiv='content-language' content='ca-es'></meta>
+        <meta property="og:description" content="Opinions joc indie de supervivència al carrer." key="description-facebook" />
+        <meta name="twitter:description" content="Opinions joc indie de supervivència al carrer." />
       </Head>
       <TopMenu />
       <section className="hero is-danger is-fullheight-with-navbar">

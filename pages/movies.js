@@ -6,7 +6,8 @@ import HeroFooter from '../components/HeroFooter';
 export default function Movies() {
     return (
         <div>
-            <Head>
+                <Head><title>De la Merca - Street survival short movies.</title>  
+                <meta name="description" content="Street survival short movies."/>    
                 <meta property="og:description" content="De la Merca Short Movies." key="description-facebook" />
                 <meta name="twitter:description" content="De la Merca Short Movies." />
             </Head>
@@ -19,6 +20,7 @@ export default function Movies() {
                         <div className="level">
                             <div className="level-item">
                                 <div className="container">
+                                    <h2 className="title is-2 delamercaTitle" style={{textAlign:"left"}}>Paga</h2>
                                     <figure class="image is-16by9">
                                         <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/a2p-mUxQhEg" title="De La Merca Pay your debts"
                                             frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
@@ -29,8 +31,20 @@ export default function Movies() {
                         <div className="level">
                             <div className="level-item">
                                 <div className="container">
+                                    <h2 className="title is-2 delamercaTitle" style={{textAlign:"left"}}>Faraones</h2>
                                     <figure class="image is-16by9">
                                         <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/h9nf7E57Wjo" title="De La Merca Faraones"
+                                            frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                                    </figure>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="level">
+                            <div className="level-item">
+                                <div className="container">
+                                    <h2 className="title is-2 delamercaTitle" style={{textAlign:"left"}}>Mota</h2>
+                                    <figure class="image is-16by9">
+                                        <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/KbcgCHgrEN0" title="De La Merca Faraones"
                                             frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                                     </figure>
                                 </div>

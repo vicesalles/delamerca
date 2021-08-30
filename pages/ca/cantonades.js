@@ -1,9 +1,18 @@
 import Link from 'next/link';
+import Head from 'next/head';
 import Pagina from '../../components/Pagina';
 
 function Cantonades() {
 
     return (<Pagina>
+         <Head>
+        <title>De la Merca - Joc gratuït de supervivència al carrer.</title>  
+        <meta name="description" content="De la merca és un joc de supervivència al carrer en català només per a Android."/>    
+        <meta http-equiv='content-language' content='ca-es'></meta>
+        <meta property="og:description" content="Joc indie de supervivència al carrer." key="description-facebook" />
+        <meta name="twitter:description" content="Joc indie de supervivència al carrer." />
+        
+      </Head>
         <section className="hero is-danger">
             <div className="hero-body">
                 <div className="container">

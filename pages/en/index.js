@@ -11,9 +11,10 @@ export default function Home() {
 
   return (
     <div>
-          <Head>
+      <Head>
         <meta property="og:description" content="Street survival game." key="description-facebook" />
         <meta name="twitter:description" content="Street survival game." />
+        <meta http-equiv='content-language' content='en-gb'></meta>
       </Head>
       <section className="hero is-dark is-fullheight">
         <div className="hero-head">
