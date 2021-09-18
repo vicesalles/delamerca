@@ -26,12 +26,10 @@ function Esquinas() {
                 Son muchas las voces que afirman que tras la guerra contra la droga, se esconde la guerra contra los pobres. ¿Cuanto te crees que durarías como peón?
             </p>
 
-            <p className="para">En este juego, empezarás la partida con 20 pavos y 3 pollos de merca. Tendrás que ser listo y tener suerte para sobrevivir a las calles salvajes.</p>
-
-            <p className="para"> El juego está actualmente en desarrollo y saldrá al mercado durante el último cuarto de 2021. De la merca es un juego gratis para Android. No se contemplan otras plataformas.</p>
-
+            <p className="para">En este juego, empezarás la partida con 20 pavos y 3 pollos de merca. Tendrás que ser listo y tener suerte para sobrevivir a las calles salvajes. El juego de la calle solo tiene dos finales: Cárcel o muerte. 
+            De la merca no se trata de ganar si no de cuanto vas a aguantar sin perder. Vender drogas, robar, qué puedes hacer en la calle? Quien te pillará antes? La Poli? Tus enemigos? El juego de la merca te muestra el drama de la calle a base de encuentros con gente de la calle.</p>
+            <p className="para"> El juego está en continuo desarrollo y ya está disponible en Google Play. De la merca es un juego gratis para Android. No se contemplan otras plataformas.</p>
             <p className="para"> Da soporte al proyecto y píllate <a href="https://delamerca.net" target="_blank"> una camiseta DLM</a></p>
-
 
             <figure class="image is-vcentered">
                 <img style={{ width: "400px", height: "400px" }} src="/img/esquinasdelamerca.jpg" />
@@ -46,6 +44,8 @@ function Esquinas() {
 
             <p>22/08/21: Se lanza el juego en abierto. De la Merca solo disponible en Google Play.</p>
             <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=delamerca.com-es-esquinas'>Descarga el juego en Google Play</a>.
+
+            <p>18/09/21: El juego de la merca ya <a href="https://play.google.com/store/apps/details?id=com.QueClase.Corners">está disponible</a> en Google Play</p>
         </section>
     </Pagina>)
 

@@ -28,12 +28,7 @@ function TopMenuCa(){
                     <a className="navbar-item">
                         Crims Reals
                     </a>
-                </Link>  
-                <Link href="/ca/jo">
-                    <a className="navbar-item">
-                        Autor
-                    </a>
-                </Link>     
+                </Link>                  
                 </div>
             </nav>)
 

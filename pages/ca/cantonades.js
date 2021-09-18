@@ -30,10 +30,12 @@ function Cantonades() {
 
             <p>El de les drogues, és un d'aquells temes en els quals la hipocresia i la incoherència de la nostra societat brillen amb més força. És per això, que he decidit localitzar el meu primer joc en aquest àmbit tan controvertit. A través de la micronarrativa i, si l'usuari així ho considera, l'humor negra, 
                 intento fer evidents algunes de les disfuncions del sistema político-econòmic que donem per vàlid.</p>
-            
-            <p className="para"> El joc està actualment en fase de desenvolupament i sortirà al mercat durant el darrer quart de 2021. De la merca és un joc gratuït disponible només per Android.</p>
 
-            <p className="para"> Dóna suport al projecte i compra't <a href="https://delamerca.net" target="_blank"> una camiseta DLM</a></p>
+            <p>Buscar-se la vida al carrer només té dues sortides: Mort o Presó. De la merca és un joc sense pels a la llengua que fa broma, amb ànims de denúncia, sobre les desgracies que es troben al carrer.</p>
+            
+            <p className="para"> El joc està en desenvolupament continu i actualment es troba en les primeres fases obertes al públic. De la merca és un joc gratuït disponible només per Android.</p>
+
+            <p className="para"> Pots donar suport al projecte comprant <a href="https://delamerca.net" target="_blank"> una camiseta DLM</a></p>
 
             <figure class="image is-vcentered">
                     <img  style={{ width:"400px", height:"400px"}} src="/img/esquinasdelamerca.jpg"/>
@@ -44,6 +46,8 @@ function Cantonades() {
              
             <p>15/08/21: Llanço el canal de youtube.</p>
             <a href='https://www.youtube.com/channel/UCVYbb6OnpP8AMlWEc_BVh0A'>De la merca Youtube</a>
+
+            <p>18/09/21: El Joc de la merca ja <a href="https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=web_vista_cantonades">està disponible</a> a Google Play.</p>
              
 
         </section>
