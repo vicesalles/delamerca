@@ -26,9 +26,10 @@ export default function Home() {
             <h2 className="subtitle homeSubtitle">
             <Link href="/en/corners"><span  className="cornersLink">De la Merca</span></Link> is a street survival game where you'll never win.
             </h2>  
-            <h1 className="title delamercaSubtitle">
+            <h1 className="title is-3 delamercaSubtitle">
               for how long you gonna last?
             </h1>   
+            
             <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=delamerca.com-en-home'><img width="200" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
              
           </div>

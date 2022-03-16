@@ -16,14 +16,14 @@ function Esquinas() {
             <div className="hero-body">
                 <div className="container">
                     <h1 className="title delamercaTitle">
-                        Esquinas
+                        Esquinas De la Merca
                     </h1>
                 </div>
             </div>
         </section>
         <section className="container section content">
             <p className="para"> De La Merca Esquinas (DLM) es un juego hiper casual pero intenso de supervivencia callejera. Fuera de los narcos de Netflix, la industria de la droga no tiene nada de romántico. Es un mundo duro y sucio en el que, difícilmente, se entra como primera opción.
-                Son muchas las voces que afirman que tras la guerra contra la droga, se esconde la guerra contra los pobres. ¿Cuanto te crees que durarías como peón?
+                Son muchas las voces que afirman que tras la guerra contra la droga, se esconde la guerra contra los pobres. ¿Cuánto te crees que durarías como peón?
             </p>
 
             <p className="para">En este juego, empezarás la partida con 20 pavos y 3 pollos de merca. Tendrás que ser listo y tener suerte para sobrevivir a las calles salvajes. El juego de la calle solo tiene dos finales: Cárcel o muerte. 

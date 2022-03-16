@@ -20,7 +20,7 @@ export default function Home() {
                         </h1>
                         <div className="level">
                             <div className="level-item">
-                                <a class="twitter-timeline" href="https://twitter.com/delamerca?ref_src=twsrc%5Etfw">Tweets by delamerca</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                <a class="twitter-timeline" href="https://twitter.com/delamerca?ref_src=twsrc%5Etfw" target="_blank">Tweets by delamerca</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                             </div>
                         </div>
                         <div className="level">

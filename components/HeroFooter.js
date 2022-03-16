@@ -12,7 +12,7 @@ function HeroFooter() {
         <div className="level">
 
         <div className="level-item footerHome">
-            <a href="https://www.youtube.com/channel/UCVYbb6OnpP8AMlWEc_BVh0A" target="_blank">
+            <a href="https://www.youtube.com/channel/UCVYbb6OnpP8AMlWEc_BVh0A?sub_confirmation=1" target="_blank">
               <Icon path={mdiYoutube} title="De la merca Youtube Channel" size={1} color="#ffffff" />
             </a>
           </div>

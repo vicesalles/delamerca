@@ -7,25 +7,17 @@ export default function Home() {
       <section className="hero is-dark is-fullheight">
         <div className="hero-body">
           <div className="container has-text-centered">
-            <div className="level">
-              <div className="level-item">
-                <div className="container">
-                  <figure class="image is-16by9">
-                    <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/a2p-mUxQhEg" title="De La Merca"
-                      frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-                  </figure>
-                </div>
-              </div>
-            </div>
+          <h1 className="title is-1 delamercaTitle" style={{ color: "#e7401d" }}>
+              de la merca
+            </h1>
+            <img src="/Bigoti.svg" width="250" style={{ marginBottom: "1em" }} />
+            <h2 className="title delamercaSubtitle">pura calle</h2>
             <div className="level">
               <div className="level-item">
                 <a href='https://play.google.com/store/apps/details?id=com.QueClase.Corners&pcampaignid=delamerca.com-home'><img width="200" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' /></a>
               </div>
             </div>
-            <h1 className="title is-1 delamercaTitle" style={{ color: "#e7401d" }}>
-              de la merca
-            </h1>
-            <img src="/Bigoti.svg" width="250" style={{ marginBottom: "1em" }} />
+            
 
 
             <div className="level">
