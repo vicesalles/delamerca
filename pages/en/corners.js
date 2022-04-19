@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import Pagina from '../../components/Pagina';
 
 function Corners() {

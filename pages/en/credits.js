@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import Icon from '@mdi/react'
 import { mdiTwitter } from '@mdi/js'
 import Pagina from '../../components/Pagina';
